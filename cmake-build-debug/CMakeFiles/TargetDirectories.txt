@@ -1,0 +1,3 @@
+/home/francis/Documents/todoist/cmake-build-debug/CMakeFiles/todoist.dir
+/home/francis/Documents/todoist/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/francis/Documents/todoist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

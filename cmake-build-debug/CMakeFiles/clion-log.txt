@@ -1,0 +1,7 @@
+/home/francis/Downloads/CLion-2022.2.3/clion-2022.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/francis/Downloads/CLion-2022.2.3/clion-2022.2.3/bin/ninja/linux/ninja -G Ninja -S /home/francis/Documents/todoist -B /home/francis/Documents/todoist/cmake-build-debug
+CMake Error at CMakeLists.txt:9 (pkg_add_module):
+  Unknown CMake command "pkg_add_module".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/francis/Documents/todoist/cmake-build-debug/CMakeFiles/CMakeOutput.log".

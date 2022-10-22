@@ -1,0 +1,1 @@
+cc main.c -o hello `pkg-config --cflags --libs gtk+-3.0` -Wno-format -Wno-deprecated-declarations -Wno-format-security -lm -export-dynamic
